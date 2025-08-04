@@ -1,1 +1,30 @@
-[{"id": 1, "date": "2025-08-03 23:45:11.504131", "description": "dinner", "amount": "30", "category": "food"}, {"id": 2, "date": "2025-08-03 23:51:00.502456", "description": "buy shoes", "amount": "50", "category": "buy"}]
+[
+    {
+        "id": 1,
+        "date": "2025-08-03 23:45:11.504131",
+        "description": "dinner",
+        "amount": "30",
+        "category": "food"
+    },
+    {
+        "id": 2,
+        "date": "2025-02-04 10:57:26.301043",
+        "description": "call",
+        "amount": "20",
+        "category": "buy"
+    },
+    {
+        "id": 3,
+        "date": "2025-10-04 10:58:14.610350",
+        "description": ";lkjhgcx",
+        "amount": "80",
+        "category": "food"
+    },
+    {
+        "id": 4,
+        "date": "2025-08-04 11:02:02.101090",
+        "description": "lknbvc",
+        "amount": "90",
+        "category": "buy"
+    }
+]
